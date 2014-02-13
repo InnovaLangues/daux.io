@@ -63,6 +63,9 @@ software, even if advised of the possibility of such damage.
 
 */
 
+//Added by Innovalangues/Donovan
+require_once('authenticate.php');
+
 require_once('libs/functions.php');
 
 $options = get_options();
