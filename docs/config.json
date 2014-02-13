@@ -1,9 +1,10 @@
 {
-	"title": "Innovalangues Developper Documentation",
-	"docs_path": "../devdocs",
-	"theme": "navy",
-	"date_modified": true,
-    "float": false,
-	"links": {
-	}
+        "title": "Innovalangues Developper Documentation",
+        "docs_path": "../devdocs",
+        "theme": "navy",
+        "date_modified": true,
+        "float": false,
+        "clean_urls": false,
+        "links": {
+        }
 }
